@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InClassAssignment09-YushuG</string>
+    <string name="welcome_message">Welcome to my App!</string>
+    <string name="continue_button_message">Continue</string>
+    <string name="send_string_button_message">Send A String</string>
+    <string name="send_laptop_button_message">Send A Laptop</string>
+    <string name="send_date_button_message">Send Today\'s Date</string>
+</resources>
